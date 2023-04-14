@@ -1,0 +1,2 @@
+I have used Yahoo Finance API to import stock information of various Multinational Companies such as Google, Apple, Microsoft and Amazon etc. Also, Pandas_datareader is 
+used for web scraping and reading information from the web.
